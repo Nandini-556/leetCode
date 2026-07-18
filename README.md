@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Nandini-556/leetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Nandini-556/leetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nandini-556/leetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nandini-556/leetCode/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/Nandini-556/leetCode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -52,9 +53,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nandini-556/leetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Nandini-556/leetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nandini-556/leetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nandini-556/leetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Nandini-556/leetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
