@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Nandini-556/leetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Nandini-556/leetCode/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/Nandini-556/leetCode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Nandini-556/leetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nandini-556/leetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Nandini-556/leetCode/tree/master/0326-power-of-three) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Nandini-556/leetCode/tree/master/0168-excel-sheet-column-title) |
 | [0819-most-common-word](https://github.com/Nandini-556/leetCode/tree/master/0819-most-common-word) |
 ## Two Pointers
 |  |
