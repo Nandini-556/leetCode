@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nandini-556/leetCode/tree/master/0204-count-primes) |
 | [0819-most-common-word](https://github.com/Nandini-556/leetCode/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nandini-556/leetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Nandini-556/leetCode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Nandini-556/leetCode/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/Nandini-556/leetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nandini-556/leetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nandini-556/leetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Nandini-556/leetCode/tree/master/0326-power-of-three) |
@@ -72,9 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nandini-556/leetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nandini-556/leetCode/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Nandini-556/leetCode/tree/master/0191-number-of-1-bits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nandini-556/leetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
