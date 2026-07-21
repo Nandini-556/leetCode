@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nandini-556/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0819-most-common-word](https://github.com/Nandini-556/leetCode/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nandini-556/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nandini-556/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
