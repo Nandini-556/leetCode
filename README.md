@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nandini-556/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Nandini-556/leetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Nandini-556/leetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Nandini-556/leetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-556/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0234-palindrome-linked-list) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nandini-556/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Nandini-556/leetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Nandini-556/leetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/Nandini-556/leetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Nandini-556/leetCode/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-556/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0234-palindrome-linked-list) |
