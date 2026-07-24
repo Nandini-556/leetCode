@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Nandini-556/leetCode/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/Nandini-556/leetCode/tree/master/0204-count-primes) |
 | [0819-most-common-word](https://github.com/Nandini-556/leetCode/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Nandini-556/leetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nandini-556/leetCode/tree/master/0069-sqrtx) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
