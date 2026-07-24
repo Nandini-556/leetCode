@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Nandini-556/leetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Nandini-556/leetCode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Nandini-556/leetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nandini-556/leetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
@@ -136,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Nandini-556/leetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nandini-556/leetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
