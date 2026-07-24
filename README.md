@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Nandini-556/leetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Nandini-556/leetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Nandini-556/leetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Nandini-556/leetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-556/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Nandini-556/leetCode/tree/master/0148-sort-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Nandini-556/leetCode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Nandini-556/leetCode/tree/master/0191-number-of-1-bits) |
 ## Enumeration
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Nandini-556/leetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Nandini-556/leetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Nandini-556/leetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Nandini-556/leetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-556/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0328-odd-even-linked-list) |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Nandini-556/leetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Nandini-556/leetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
