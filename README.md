@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Nandini-556/leetCode/tree/master/1512-number-of-good-pairs) |
+| [1929-concatenation-of-array](https://github.com/Nandini-556/leetCode/tree/master/1929-concatenation-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nandini-556/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nandini-556/leetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Nandini-556/leetCode/tree/master/3620-network-recovery-pathways) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nandini-556/leetCode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/Nandini-556/leetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
