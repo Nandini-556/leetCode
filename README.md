@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nandini-556/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nandini-556/leetCode/tree/master/0035-search-insert-position) |
 | [0204-count-primes](https://github.com/Nandini-556/leetCode/tree/master/0204-count-primes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Nandini-556/leetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandini-556/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Nandini-556/leetCode/tree/master/0645-set-mismatch) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Nandini-556/leetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Nandini-556/leetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-556/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Nandini-556/leetCode/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/Nandini-556/leetCode/tree/master/0819-most-common-word) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
