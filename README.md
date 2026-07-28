@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nandini-556/leetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Nandini-556/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nandini-556/leetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Nandini-556/leetCode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nandini-556/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nandini-556/leetCode/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandini-556/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Nandini-556/leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nandini-556/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nandini-556/leetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Nandini-556/leetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nandini-556/leetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Nandini-556/leetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Nandini-556/leetCode/tree/master/0086-partition-list) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Nandini-556/leetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nandini-556/leetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Nandini-556/leetCode/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Nandini-556/leetCode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandini-556/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Nandini-556/leetCode/tree/master/0645-set-mismatch) |
