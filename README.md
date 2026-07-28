@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandini-556/leetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Nandini-556/leetCode/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nandini-556/leetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Nandini-556/leetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nandini-556/leetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Nandini-556/leetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nandini-556/leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nandini-556/leetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Nandini-556/leetCode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Nandini-556/leetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandini-556/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Nandini-556/leetCode/tree/master/0168-excel-sheet-column-title) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Nandini-556/leetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Nandini-556/leetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Nandini-556/leetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Nandini-556/leetCode/tree/master/0012-integer-to-roman) |
 | [0168-excel-sheet-column-title](https://github.com/Nandini-556/leetCode/tree/master/0168-excel-sheet-column-title) |
 | [0819-most-common-word](https://github.com/Nandini-556/leetCode/tree/master/0819-most-common-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nandini-556/leetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
