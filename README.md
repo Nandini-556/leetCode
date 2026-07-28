@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandini-556/leetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nandini-556/leetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nandini-556/leetCode/tree/master/0035-search-insert-position) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nandini-556/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Nandini-556/leetCode/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Nandini-556/leetCode/tree/master/0485-max-consecutive-ones) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nandini-556/leetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nandini-556/leetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Nandini-556/leetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nandini-556/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Nandini-556/leetCode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/Nandini-556/leetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nandini-556/leetCode/tree/master/0231-power-of-two) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Nandini-556/leetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nandini-556/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nandini-556/leetCode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Merge Sort
