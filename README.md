@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nandini-556/leetCode/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Nandini-556/leetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Nandini-556/leetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandini-556/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Nandini-556/leetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/Nandini-556/leetCode/tree/master/0645-set-mismatch) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Nandini-556/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nandini-556/leetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Nandini-556/leetCode/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/Nandini-556/leetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandini-556/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Nandini-556/leetCode/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandini-556/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Nandini-556/leetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nandini-556/leetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Nandini-556/leetCode/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nandini-556/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Nandini-556/leetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Nandini-556/leetCode/tree/master/0022-generate-parentheses) |
+| [0486-predict-the-winner](https://github.com/Nandini-556/leetCode/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nandini-556/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Nandini-556/leetCode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -314,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Nandini-556/leetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Nandini-556/leetCode/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Nandini-556/leetCode/tree/master/0620-not-boring-movies) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Nandini-556/leetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
