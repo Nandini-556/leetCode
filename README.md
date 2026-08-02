@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Nandini-556/leetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandini-556/leetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/Nandini-556/leetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Nandini-556/leetCode/tree/master/0234-palindrome-linked-list) |
 | [0636-exclusive-time-of-functions](https://github.com/Nandini-556/leetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nandini-556/leetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -334,6 +335,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Nandini-556/leetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nandini-556/leetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nandini-556/leetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Nandini-556/leetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
