@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Nandini-556/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nandini-556/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Nandini-556/leetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandini-556/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Nandini-556/leetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Nandini-556/leetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Nandini-556/leetCode/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Nandini-556/leetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nandini-556/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nandini-556/leetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
