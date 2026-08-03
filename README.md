@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandini-556/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nandini-556/leetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Nandini-556/leetCode/tree/master/1470-shuffle-the-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nandini-556/leetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandini-556/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Nandini-556/leetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Nandini-556/leetCode/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandini-556/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Nandini-556/leetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nandini-556/leetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nandini-556/leetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nandini-556/leetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/Nandini-556/leetCode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nandini-556/leetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nandini-556/leetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
 | ------- |
@@ -344,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Nandini-556/leetCode/tree/master/0232-implement-queue-using-stacks) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Nandini-556/leetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
