@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandini-556/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Nandini-556/leetCode/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Nandini-556/leetCode/tree/master/0168-excel-sheet-column-title) |
+| [0482-license-key-formatting](https://github.com/Nandini-556/leetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Nandini-556/leetCode/tree/master/0520-detect-capital) |
 | [0819-most-common-word](https://github.com/Nandini-556/leetCode/tree/master/0819-most-common-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandini-556/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
