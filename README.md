@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Nandini-556/leetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Nandini-556/leetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Nandini-556/leetCode/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/Nandini-556/leetCode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/Nandini-556/leetCode/tree/master/0819-most-common-word) |
 | [0831-masking-personal-information](https://github.com/Nandini-556/leetCode/tree/master/0831-masking-personal-information) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nandini-556/leetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Nandini-556/leetCode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Nandini-556/leetCode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
