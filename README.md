@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Nandini-556/leetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Nandini-556/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nandini-556/leetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Nandini-556/leetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/Nandini-556/leetCode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nandini-556/leetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nandini-556/leetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandini-556/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nandini-556/leetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Nandini-556/leetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Nandini-556/leetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nandini-556/leetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nandini-556/leetCode/tree/master/3536-maximum-product-of-two-digits) |
