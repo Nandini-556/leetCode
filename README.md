@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Nandini-556/leetCode/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/Nandini-556/leetCode/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Nandini-556/leetCode/tree/master/1046-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/Nandini-556/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Nandini-556/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Nandini-556/leetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Nandini-556/leetCode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandini-556/leetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Nandini-556/leetCode/tree/master/0645-set-mismatch) |
+| [1200-minimum-absolute-difference](https://github.com/Nandini-556/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Nandini-556/leetCode/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Nandini-556/leetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandini-556/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
